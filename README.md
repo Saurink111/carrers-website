@@ -1,1 +1,1 @@
-# carrers-website
+# careers-website
